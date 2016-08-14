@@ -1,0 +1,5 @@
+{
+  "disallowAttributeInterpolation": true,
+  "disallowLegacyMixinCall": true,
+  "validateExtensions": true
+}

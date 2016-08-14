@@ -1,0 +1,28 @@
+{
+  "name": "pug-lint-config-migration-v2",
+  "version": "1.0.0",
+  "description": "pug-lint configuration to help migrate to Pug v2.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pugjs/pug-lint-config-migration-v2.git"
+  },
+  "peerDependencies": {
+    "pug-lint": ">=2.3.0"
+  },
+  "keywords": [
+    "pug",
+    "pug-lint",
+    "lint"
+  ],
+  "author": "Timothy Gu <timothygu99@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pugjs/pug-lint-config-migration-v2/issues"
+  },
+  "homepage": "https://github.com/pugjs/pug-lint-config-migration-v2#readme",
+  "devDependencies": {
+    "pug-lint": "^2.3.0"
+  }
+}

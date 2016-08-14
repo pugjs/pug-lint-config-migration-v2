@@ -1,6 +1,6 @@
 {
   "name": "pug-lint-config-migration-v2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pug-lint configuration to help migrate to Pug v2.",
   "main": "index.js",
   "scripts": {},

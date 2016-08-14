@@ -20,7 +20,13 @@ Next, add a `.pug-lintrc.json` file in your project root:
 }
 ```
 
-And now, when you execute `pug-lint`, you should see a list of errors that might prevent your app from working properly in Pug 2.
+And now, you can run the linter as
+
+```sh
+$ ./node_modules/.bin/pug-lint .
+```
+
+You should see a list of errors that might prevent your app from working properly in Pug 2.
 
 ## License
 

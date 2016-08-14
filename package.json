@@ -11,6 +11,9 @@
   "peerDependencies": {
     "pug-lint": ">=2.3.0"
   },
+  "devDependencies": {
+    "pug-lint": "^2.3.0"
+  },
   "keywords": [
     "pug",
     "pug-lint",
@@ -21,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/pugjs/pug-lint-config-migration-v2/issues"
   },
-  "homepage": "https://github.com/pugjs/pug-lint-config-migration-v2#readme",
-  "devDependencies": {
-    "pug-lint": "^2.3.0"
-  }
+  "homepage": "https://github.com/pugjs/pug-lint-config-migration-v2#readme"
 }

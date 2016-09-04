@@ -2,7 +2,7 @@
 
 [pug-lint] configuration for migration to Pug 2.
 
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)](https://www.npmjs.com/package/pug-lint-config-migration-v2)
+[![npm](https://img.shields.io/npm/v/pug-lint-config-migration-v2.svg?maxAge=2592000)](https://www.npmjs.com/package/pug-lint-config-migration-v2)
 
 ## How to use
 
